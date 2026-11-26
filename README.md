@@ -3,6 +3,7 @@
 Spécification UML du projet ST2OOS (EFREI, 2026-2027), réorganisée pour l'implémentation.
 
 > **À lire en premier :** ce fichier → [00_Global/MODELE_DOMAINE.md](00_Global/MODELE_DOMAINE.md) → le `README.md` du UC que vous implémentez.
+
 > Répartition des tâches : https://claude.ai/artifact/B5UTNgUnfY9ZNT9AHr4WkK
 
 ---
